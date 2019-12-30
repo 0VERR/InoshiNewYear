@@ -1,0 +1,6 @@
+main: pl.inoshi.newyear.NewYearPlugin
+version: 1.0
+author: 0VERR
+name: InoshiNewYear
+commands:
+  firework:
